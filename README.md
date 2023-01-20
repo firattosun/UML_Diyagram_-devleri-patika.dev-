@@ -1,2 +1,2 @@
-# UML_Diyagram_-devleri-patika.dev-
+# UML_Diyagram_odevleri-patika.dev-
 Üniversite Yönetim Sistemi 
