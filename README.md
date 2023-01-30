@@ -14,7 +14,7 @@ Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur. 
 
-Yukarıdaki özelliklere sahip Uml diyagramı tasarlanmıştır.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir sistem tasarlıyorsunuz.
